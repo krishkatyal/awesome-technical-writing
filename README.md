@@ -116,7 +116,7 @@
 * [LanguageTool](https://languagetool.org) - Open-source writing assistant, an alternative to Grammarly.
 * [HemingwayApp](https://hemingwayapp.com) - Hemingway App makes your writing bold and clear. Helps fix long & complex sentences.
 * [ChatGPT](https://chat.openai.com) - A conversational chatbot that can generate human-like responses to natural language prompts.
-
+* [Tune Chat](https://chat.tune.app/) - AI chat app powered by open source models
 ## Resources
 
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
